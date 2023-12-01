@@ -5,7 +5,8 @@
 In this lab you will review the confoguraiton for terraform including details of the switch to use and the Xpaths to enable for telemetry. The TF workflow will be demonstrated including the plan, apply, and destroy commands.
 
 # Install TF
-Ensure the terraform tool has already been installed into your envrionment first !
+The Terraform binary has already been installed into the Windows desktop client and is accessible from the Windows Terminal by typing **terraform**
+
 
 
 # Enable pre-req on IOS XE
